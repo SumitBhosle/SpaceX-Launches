@@ -2,7 +2,7 @@
 # Assignment-
 # My React Project
 
-This project was bootstrapped with [Create React App](https://github.com/SumitBhosle/SpaceX-Launches)).
+This project was bootstrapped with [Create React App](https://github.com/SumitBhosle/SpaceX-Launches).
 
 # SpaceX Launches Dashboard
 
